@@ -12,3 +12,4 @@ TP GitHub - Cours DevOps
 =======
 # Autre modification locale
 >>>>>>> 6d46ce8 (docs: local README update)
+# Rapport de synthèse du projet
